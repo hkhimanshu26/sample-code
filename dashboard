@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Page</title>
+</head>
+<style>
+body {background-color: beige;}</style>
+<style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+<body>
+    <header><header style="background-color: rosybrown; color: #fff; text-align: center;">
+ <h1></h1>
+ <nav>
+ <ul style="list-style: none; padding: 0; margin: 0;">
+ <li style="display: inline; margin-right: 20px;"><a href="MainPage.html" 
+style="color: #fff; ">Home</a></li>
+ <li style="display: inline; margin-right: 20px;"><a href="#" style="color: 
+#fff;">About</a></li>
+ <li style="display: inline; margin-right: 20px;"><a href="#" style="color: 
+#fff;">Services</a></li>
+ <li style="display: inline; margin-right: 20px;"><a href="Contact.html" 
+style="color: #fff;">Contact</a></li>
+
+ </ul>
+ </nav></header>
+        <div class="container">
+      <div class="image">
+        <img src="C:\Users\hkhim\OneDrive\Desktop\4th sem\Web Tech Project\sdm logo.png" width="100" height="100">
+      </div>
+      <div class="text">
+        <h1>Shri Dharmasthala Manjunatheshwara College of Engineering & Technology, Dharwad</h1>
+      </div>
+    </div>
+                <marquee direction="side">SDM College of Engineering and Technology is Graded A in the first cycle by NAAC for 5 years with effect from 18.10.2023.
+                NBA Tier-I Accreditation Status Extended till 30th June 2026</marquee></span></div>
+                <span>
+                       <h4>About SDMCET, Dharwad:</h4>
+               <p>Shri Dharmasthala Manjunatheshwara College of Engineering & Technology, Dharwad was established in the year 1979 under the flagship of SDME Society and has grown into one of the nationally acclaimed premier engineering institutions in the country.
+                    
+                    The Institution has been consistently rated high, ranking within 50, among the top private engineering colleges in the country.
+                    
+                </p>
+               
+ <ul>
+  <li>Undergraduate</li>
+  <ul>
+    <li><td colspan="2"><a href="LoginPage.html">Computer Science and Engineering</a></td></li>
+    <li>Artificial Intelligence and Machine Learning</li>
+    <li>Information Science and Engineering</li>
+    <li>Chemical Engineering</li>
+    <li>Electrical and Electronics Engineering</li>
+    <li>Electronics and Communication Engineering</li>
+    <li>Mechanical Engineering</li>
+    <li>Civil Engineering</li>
+</ul>
+  <li>Postgraduate</li>
+  <ul>
+    <li>MBA</li>
+    <li>M.Tech</li>
+</ul>
+ </ul>  
+</span></header>
+</body>
+</html>
